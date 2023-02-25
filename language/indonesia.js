@@ -283,31 +283,31 @@ exports.OffNsfw = () => {
     return `Fitur nsfw belum di aktifkan`
 }
 exports.CoverBanLol = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|jinx7`
+    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} Agat|jinx7`
 }
 exports.coverbannerlol = (style) => {
     return `*Heroes Yg Kamu Masukkan Salah*\n\n_Berikut list heroes yg benar, Total_ *${style}* _heroes_\n\n`
 }
 exports.pubglogomaker = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|women`
+    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} Agat|women`
 }
 exports.pubglogomaker_ = (style) => {
     return `*Style Yg Kamu Masukkan Salah*\n\n_Berikut list style yg benar, Total_ *${style}* _style_\n\n`
 }
 exports.colorfulpubg = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|color\nUsage: ${prefix + command} zeeone|gold`
+    return `Contoh: ${prefix + command} nama|color\nUsage: ${prefix + command} Agat|gold`
 }
 exports.colorfulpubg_ = (style) => {
     return `*Color Yg Kamu Masukkan Salah*\n\n_Berikut list color yg benar, Total_ *${style}* _color_\n\n`
 }
 exports.astronotspace = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|anubis`
+    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} Agat|anubis`
 }
 exports.wallpaperaov = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|allain`
+    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} Agat|allain`
 }
 exports.maketeamlogo = (style, style2, prefix, command) => {
-    return `Contoh: ${prefix + command} nama|${style}\nUsage: ${prefix + command} zeeone|${style2}`
+    return `Contoh: ${prefix + command} nama|${style}\nUsage: ${prefix + command} Agat|${style2}`
 }
 
 exports.MaketeamlogoT = (a, b, c, d, e, f, g, h) => {
@@ -417,7 +417,7 @@ exports.TbJail = (prefix, command) => {
     return `Kirim/Reply Foto/Sticker Dengan Caption ${prefix + command}`
 }
 exports.TbRepo = (prefix, command) => {
-    return `Kirim perintah ${prefix + command} *user* *repo* *branch*\n\nExp. ${prefix + command} *zeeone-ofc* *Alphabot-Md* *v12*`
+    return `Kirim perintah ${prefix + command} *user* *repo* *branch*\n\nExp. ${prefix + command} *Agat-ofc* *AgatZBOT* *1*`
 }
 exports.StalkIg = () => {
     return `Masukkan username`
@@ -1778,7 +1778,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Script ini bisa kalian dapatkan di YouTube Growds AD
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1810,7 +1810,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://s.id/YouTube-Zeeoneofc
+Recode : https://s.id/YouTube-Growds AD
 `
 }
 exports.tos = (ownernomer) => {

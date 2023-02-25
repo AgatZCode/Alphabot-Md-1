@@ -280,31 +280,31 @@ exports.OffNsfw = () => {
     return `Fitur nsfw belum di aktifkan`
 }
 exports.CoverBanLol = (prefix, command) => {
-    return `Ejemplo: ${prefix + command} nombre|heroes\nEjemplo: ${prefix + command} zeeone|jinx7`
+    return `Ejemplo: ${prefix + command} nombre|heroes\nEjemplo: ${prefix + command} Agat|jinx7`
 }
 exports.coverbannerlol = (style) => {
     return `*Los héroes que ingresaste están equivocados*\n\n_Aquí hay una lista de los héroes correctos, Total_ *${style}* _heroes_\n\n`
 }
 exports.pubglogomaker = (prefix, command) => {
-    return `Ejemplo: ${prefix + command} nombre|style\n Ejemplo: ${prefix + command} zeeone|women`
+    return `Ejemplo: ${prefix + command} nombre|style\n Ejemplo: ${prefix + command} Agat|women`
 }
 exports.pubglogomaker_ = (style) => {
     return `*El estilo que ingresaste es incorrecto*\n\n_Aquí hay una lista de los estilos correctos, Total_ *${style}* _style_\n\n`
 }
 exports.colorfulpubg = (prefix, command) => {
-    return `Ejemplo: ${prefix + command} nombre|color\nEjemplo: ${prefix + command} zeeone|gold`
+    return `Ejemplo: ${prefix + command} nombre|color\nEjemplo: ${prefix + command} agat|gold`
 }
 exports.colorfulpubg_ = (style) => {
     return `*El color que ingresaste es incorrecto*\n\n_Aquí hay una lista de los colores correctos, Total_ *${style}* _color_\n\n`
 }
 exports.astronotspace = (prefix, command) => {
-    return `Ejemplo: ${prefix + command} nombre|style\nEjemplos de uso: ${prefix + command} zeeone|anubis`
+    return `Ejemplo: ${prefix + command} nombre|style\nEjemplos de uso: ${prefix + command} agat|anubis`
 }
 exports.wallpaperaov = (prefix, command) => {
-    return `Ejemplo: ${prefix + command} nombre|heroes\nEjemplos de uso: ${prefix + command} zeeone|allain`
+    return `Ejemplo: ${prefix + command} nombre|heroes\nEjemplos de uso: ${prefix + command} agat|allain`
 }
 exports.maketeamlogo = (style, style2, prefix, command) => {
-    return `Ejemplo: ${prefix + command} nombre|${style}\nEjemplos de uso: ${prefix + command} zeeone|${style2}`
+    return `Ejemplo: ${prefix + command} nombre|${style}\nEjemplos de uso: ${prefix + command} agat|${style2}`
 }
 
 exports.MaketeamlogoT = (a, b, c, d, e, f, g, h) => {
@@ -414,7 +414,7 @@ exports.TbJail = (prefix, command) => {
     return `Enviar/responder foto/pegatina con leyenda ${prefix + command}`
 }
 exports.TbRepo = (prefix, command) => {
-    return `Enviar comando ${prefix + command} *user* *repo* *branch*\n\nEjemplos de uso: ${prefix + command} *zeeone-ofc* *Alphabot-Md* *v12*`
+    return `Enviar comando ${prefix + command} *user* *repo* *branch*\n\nEjemplos de uso: ${prefix + command} *agat-ofc* *AgatZBOT* *1*`
 }
 exports.StalkIg = () => {
     return `Introduzca su nombre de usuario`
@@ -1777,7 +1777,7 @@ exports.rules = (prefix) => {
 ➡️ Puede verse afectado por la red, la señal, prohibido por Whatsapp y algunas razones.
 
 🗯️ ¿Dónde puedo obtener el script de este bot?
-➡️ Puede obtener este script en YouTube ZEEONE OFC
+➡️ Puede obtener este script en YouTube Growds AD
 
 🗯️ ¿Puedo agregar al grupo?
 ➡️ Para eso depende del propietario del bot.
@@ -1809,7 +1809,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://s.id/YouTube-Zeeoneofc
+Recode : https://s.id/YouTube-Growds AD
 `
 }
 exports.tos = (ownernomer) => {
